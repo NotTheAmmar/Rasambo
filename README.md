@@ -2,4 +2,4 @@
 Rock, Paper, and Scissors Project
 
 # Circuit Schematics
-![circuit.svg]
+![Circuit Diagram](circuit.svg)
